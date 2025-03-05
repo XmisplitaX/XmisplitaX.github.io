@@ -1,0 +1,32 @@
+html {
+  height: 100%;
+  width: 100%;
+
+}
+body{
+  background-color:#585656;
+ 
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+h1,h2 {background-color: #000000;
+    color: #f29c9c;
+       border: 1px solid #f29c9c;
+      border-radius: 4px;
+   }
+p{color: #ffffff;
+ font-size: 110%;}
+#der{
+  font-size: 50%;
+}
+#disc{
+  font-size: 50%;
+  color: #f5e10a;
+  text-decoration: none;
+}
+h2{text-align: center;}
+#game{
+  font-size: 50%;
+  color: #f5e10a;
+  text-decoration: none;
+}
