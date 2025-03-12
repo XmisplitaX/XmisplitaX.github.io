@@ -4,29 +4,47 @@ html {
 
 }
 body{
-  background-color:#585656;
+  background-color:#3b3b3b;
  
   font-family: 'Times New Roman', Times, serif;
   
 }
 h1,h2 {background-color: #000000;
-    color: #f29c9c;
-       border: 1px solid #f29c9c;
+    color: #6bc9db;
+       border: 1px solid #6bc9db;
       border-radius: 4px;
    }
-p{color: #ffffff;
+p,ul{color: #ffffff;
  font-size: 110%;}
 #der{
   font-size: 50%;
 }
 #disc{
   font-size: 50%;
-  color: #f5e10a;
+  color: #eddf45;
   text-decoration: none;
 }
 h2{text-align: center;}
 #game{
   font-size: 50%;
-  color: #f5e10a;
+  color: #eddf45;
   text-decoration: none;
+}
+#izq {
+  margin-left: 10%;
+}
+
+#der {
+  margin-left: 20%;
+
+}
+#disc{
+  margin-left: 5%;
+}
+#game{
+  margin-left: 5%;
+}
+.gbv2,.gbv3,.freddo{
+  color: #458eed;
+  
 }
